@@ -5,7 +5,6 @@
 
 
 <p align="center">
-  <img src="https://github.com/bednakovdenis/Prometheus/blob/master/logs/Logo2.png">
 # Mr.Robot
 Mr.Robot Служба коротких сообщений.
 
