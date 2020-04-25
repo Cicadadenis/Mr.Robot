@@ -1,3 +1,11 @@
+
+<p align="center">
+  <img src="https://github.com/bednakovdenis/Mr.Robot/blob/master/Mr.Robot.png">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/bednakovdenis/Prometheus/blob/master/logs/Logo2.png">
 # Mr.Robot
 Mr.Robot Служба коротких сообщений.
 
@@ -7,10 +15,10 @@ Mr.Robot Служба коротких сообщений.
 
 #### Установка и использование Mr.Robot
 ```bash
-git clone https://github.com/Gameye98/santet-online
+git clone https://github.com/bednakovdenis/Mr.Robot
 cd Mr.Robot
 python -m pip install -r requirements.txt
-python Mr.Robot
+python3 Mr.Robot
 ```
 
 #### Присоединяйтесь к нам
